@@ -467,5 +467,16 @@
   "learn.sequence.navigation.next.button": "Weiter",
   "learn.sequence.navigation.next.up.button": "Als nächstes: {title}",
   "learn.sequence.navigation.previous.button": "Zurück",
-  "discussions.sidebar.open.button": "Diskussionsablage anzeigen"
+  "discussions.sidebar.open.button": "Diskussionsablage anzeigen",
+  "masquerade-widget.userName.error.generic": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+  "masquerade-widget.userName.input.placeholder": "Benutzername oder E-Mail",
+  "masquerade-widget.userName.input.label": "Als dieser Benutzer ausgeben",
+  "instructor.toolbar.staff": "Betreuung",
+  "header.menu.mycourses.label": "Meine Kurse",
+  "header.menu.discover.label": "Kursübersicht",
+  "courseOutline.loading": "Laden...",
+  "courseOutline.toggle.button": "Schalten Sie die Kursübersichtsleiste um",
+  "courseOutline.tray.title": "Kursübersicht",
+  "courseOutline.completedUnit": "Fertige Einheit",
+  "courseOutline.incompleteUnit": "Unvollständige Einheit"
 }

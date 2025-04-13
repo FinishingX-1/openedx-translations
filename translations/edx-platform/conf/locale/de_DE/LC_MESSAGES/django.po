@@ -4461,7 +4461,7 @@ msgstr ""
 #: lms/djangoapps/courseware/views/views.py:555
 #: xmodule/discussion_block.py:185
 msgid "sign in"
-msgstr "Anmelden"
+msgstr "login"
 
 #: lms/djangoapps/courseware/views/index.py:238
 #: lms/djangoapps/courseware/views/views.py:559
@@ -4572,7 +4572,7 @@ msgstr "{sign_in_link} oder {register_link}."
 #: lms/templates/lti_provider/user-auth-error.html:30
 #: lms/templates/navigation/navbar-not-authenticated.html:49
 msgid "Sign in"
-msgstr "Anmelden"
+msgstr "Login"
 
 #: lms/djangoapps/courseware/views/views.py:584
 #, python-brace-format
@@ -5735,7 +5735,7 @@ msgstr ""
 #: themes/stanford-style/lms/templates/register-form.html:142
 #: themes/stanford-style/lms/templates/register-shib.html:144
 msgid "Full Name"
-msgstr "Vollständiger Name"
+msgstr "Vor- und Nachname"
 
 #: lms/djangoapps/instructor/views/tools.py:221
 #: lms/djangoapps/instructor/views/tools.py:241
@@ -10459,7 +10459,7 @@ msgstr "Dieser Name erscheint auf allen Zertifikaten, die Sie erwerben."
 #: themes/stanford-style/lms/templates/register-form.html:93
 #: themes/stanford-style/lms/templates/register-shib.html:126
 msgid "Public Username"
-msgstr "Öffentlicher Benutzername"
+msgstr "Benutzername"
 
 #. Translators: These instructions appear on the registration form,
 #. immediately
@@ -10545,7 +10545,7 @@ msgstr ""
 
 #: openedx/core/djangoapps/user_authn/views/utils.py:52
 msgid "Create Account"
-msgstr "Konto erstellen"
+msgstr "Benutzerkonto erstellen"
 
 #: openedx/core/djangoapps/util/user_messages.py:104
 #, python-brace-format
@@ -11031,7 +11031,7 @@ msgstr "Sie haben {attempts}  für dieses Problem benötigt. "
 #: themes/red-theme/lms/templates/ace_common/edx_ace/common/base_body.html:70
 #: cms/templates/widgets/header.html:374
 msgid "Sign In"
-msgstr "Anmelden"
+msgstr "Login"
 
 #: themes/red-theme/lms/templates/ace_common/edx_ace/common/base_body.html:176
 msgid "Our mailing address is"
@@ -27607,6 +27607,10 @@ msgid "Privacy statement"
 msgstr "Datenschutz"
 
 #: Footer
+msgid "Terms of use"
+msgstr "AGB"
+
+#: Footer
 msgid "CONTACT US"
 msgstr "KONTAKT"
 
@@ -33867,3 +33871,33 @@ msgstr "Geschäftskunden werden gebeten, den unten stehenden Link zu verwenden."
 msgid "Business Enrollment"
 msgstr "Anmeldung Geschäftskunden"
 
+#: Header
+msgid "Contact us"
+msgstr "Kontakt"
+
+#: Create an account
+msgid ""
+"By creating an account, you agree to our                   "
+"{terms_of_service_link_start}Terms of Use{terms_of_service_link_end}"
+"                   and "
+"{privacy_policy_link_start}Privacy Policy{privacy_policy_link_end}."
+msgstr ""
+"Indem Sie ein Benutzerkonto erstellen, bestätigen Sie, dass Sie die "
+"{terms_of_service_link_start}allgemeinen Geschäftsbedingungen{terms_of_service_link_end} "
+"sowie die "
+"{privacy_policy_link_start}Datenschutzerklärung{privacy_policy_link_end} gelesen und verstanden haben und sich mit diesen einverstanden erklären."
+
+#: /register
+msgid "Create a free Account"
+msgstr "Kostenloses Benutzerkonto erstellen"
+
+#: /register
+msgid "Try our courses for free! Complete the form below to experience why our customers love us! The demo includes a preview of about 50 training courses in English and German. Subtitles in other languages are not included. The demo also does not provide access to admin-tools such as course editing tool and user progress reporting. Would you like to see more? No problem. Contact our customer service."
+msgstr "Jetzt kostenlos testen! Füllen Sie das untenstehende Formular aus und erfahren Sie selbst, warum unsere Kunden uns so hoch bewerten! Rund 50 Kurse in deutscher und englischer Sprache stehen Ihnen im Demo-Zugang in gekürzter Form zur Verfügung. Die Sprachauswahl der Untertitel ist auf Deutsch und Englisch beschränkt. Die Demoversion bietet auch keine Admin-Funktionen und erlaubt daher nicht das Bearbeiten von Kursinhalten oder den Zugriff auf unser Reporting-Tool. Wenn Sie weitere Inhalte und Funktionen testen wollen, wenden Sie sich bitte an unseren Kundenservice."
+
+#: Form - demo account - sign in
+msgid "Keep me informed of new promotions and features."
+msgstr "Informieren Sie mich über Neuigkeiten und Angebote."
+
+msgid "Specific Student..."
+msgstr "Spezifischer Student..."

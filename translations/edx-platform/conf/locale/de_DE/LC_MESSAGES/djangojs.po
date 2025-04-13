@@ -11326,7 +11326,7 @@ msgstr "Haben Sie bereits einen {platformName} Account?"
 
 #: lms/templates/student_account/register.underscore:7
 msgid "Sign in."
-msgstr "Anmelden"
+msgstr "Hier anmelden."
 
 #: lms/templates/student_account/register.underscore:18
 msgid "Create an account using"
@@ -13449,3 +13449,15 @@ msgstr "FRAGEN UND ANTWORTEN (FAQ)"
 
 msgid "Try our courses for free! Complete the form below to experience why our customers love us! The demo includes a preview of about 50 training courses in English and German. Subtitles in other languages are not included. The demo also does not provide access to admin-tools such as course editing tool and user progress reporting. Would you like to see more? No problem. Contact our customer service."
 msgstr "Jetzt kostenlos testen! Füllen Sie das untenstehende Formular aus und erfahren Sie selbst, warum unsere Kunden uns so hoch bewerten! Rund 50 Kurse in deutscher und englischer Sprache stehen Ihnen im Demo-Zugang in gekürzter Form zur Verfügung. Die Sprachauswahl der Untertitel ist auf Deutsch und Englisch beschränkt. Die Demoversion bietet auch keine Admin-Funktionen und erlaubt daher nicht das Bearbeiten von Kursinhalten oder den Zugriff auf unser Reporting-Tool. Wenn Sie weitere Inhalte und Funktionen testen wollen, wenden Sie sich bitte an unseren Kundenservice."
+
+msgid "Create a free demo account"
+msgstr "Fordern Sie einen kostenlosen Demozugang an"
+
+msgid "Create a free demo account."
+msgstr "Fordern Sie einen kostenlosen Demozugang an."
+
+msgid "Already have an account?"
+msgstr "Haben Sie bereits ein Benutzerkonto?"
+
+msgid "Create a free Account"
+msgstr "Kostenloses Benutzerkonto erstellen"
